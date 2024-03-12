@@ -1,4 +1,4 @@
-package com.example.jobproject;
+package com.example.jobproject.controller;
 
 import com.example.jobproject.model.JobPost;
 import com.example.jobproject.service.JobService;
